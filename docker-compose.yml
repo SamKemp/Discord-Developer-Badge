@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  discord-developer-badge:
+    image: samkemp55/discord-developer-badge:latest
+    container_name: DiscordDeveloperBadge
+    restart: always
+    environment:
+      BOT_TOKEN: 'CHANGE ME'
+      CLIENT_ID: 'CHANGE ME'
+      GUILD_ID: 'CHANGE ME'
+      CHANNEL_ID: 'CHANGE ME'
