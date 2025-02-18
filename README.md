@@ -1,6 +1,7 @@
 # Discord Developer Badge
 A Discord bot designed to gain and then keep the Developer Badge
 
+![Docker Pulls](https://img.shields.io/docker/pulls/samkemp55/discord-developer-badge?style=for-the-badge)
 
 ## Instructions
 
